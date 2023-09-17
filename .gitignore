@@ -15,3 +15,4 @@ nbactions-unit-test.xml
 config.json
 config_single_server.json
 dependency-reduced-pom.xml
+.DS_Store
